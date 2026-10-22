@@ -1,0 +1,6 @@
+venv/
+merged/
+lora_out/
+llama.cpp/
+*.gguf
+__pycache__/
